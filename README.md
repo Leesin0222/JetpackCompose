@@ -5,7 +5,7 @@
 
 |                             Do!                              |                             설명                             |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <br><br><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>BottomNavigationBar | 스크린샷 <br> ![image-20220531224153880]![image](https://user-images.githubusercontent.com/90879448/171189047-38f15115-90a1-4f89-b6b8-c8e6c12c3864.png))<br>출처 : https://www.youtube.com/watch?v=4xyRnIntwTo |
+| BottomNavigationBar | 스크린샷 <br> ![image-20220531224153880]![image](https://user-images.githubusercontent.com/90879448/171189047-38f15115-90a1-4f89-b6b8-c8e6c12c3864.png))<br>출처 : https://www.youtube.com/watch?v=4xyRnIntwTo |
 |                                                              |                                                              |
 
 
