@@ -52,10 +52,12 @@ fun UserCard() {
                 .size(120.dp)
                 .clip(CircleShape))
         Column() {
-            Text(text = stringResource(id = R.string.explan_text))
+            Text(text = stringResource(id = R.string.explan_text),modifier = Modifier.padding(start = 16.dp))
             Button(onClick = {
 
-            }) {
+            },
+                modifier = Modifier.padding(top = 20.dp, start = 16.dp)
+            ) {
                 Text(text = "프로필 보기")
             }
         }
